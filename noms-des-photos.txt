@@ -1,0 +1,87 @@
+Quelques règles pour que les photos s'affichent
+
+Le nom du fichier doit être identique, lettre pour lettre, à celui écrit dans la fiche, extension comprise.
+Gardez les minuscules : un site hébergé fait la différence entre Abel.jpeg et abel.jpeg.
+Il n'y a encore aucune photo d'évènement ni de famille dans les données, donc rien à nommer pour photos/evenements/ et photos/familles/ pour l'instant.
+
+
+Abel Guepning : photos/abel-guepning.jpg
+Abel Jouenang : photos/abel.jpeg
+Agnès Edzimbi : photos/agnes-edzimbi.jpg
+Alain Tchiemegne : photos/alain.jpeg
+Allan Chris Djinang : photos/allan-chris-djinang.jpg
+Alvine Guenang : photos/alvine.jpeg
+Ange Bryan Tidjouon : photos/ange-bryan-tidjouon.jpg
+Ange Dany Lowe : photos/ange-dany-lowe.jpg
+Anne Lea Djapou : photos/anne-lea-djapou.jpg
+Arthur Tidjouon Ngopnang : photos/arthur-tidjouon-ngopnang.jpg
+Berthine Tchatchouang : photos/berthine.jpeg
+Bertin Poka'a : photos/bertin.jpeg
+Brice Piegouong : photos/brice-piegouong.jpg
+Caroline Wandji : photos/caroline-wandji.jpg
+Cathérine Tchoungang : photos/catherine-tchoungang-2.jpg
+Cathérine Tchoungang : photos/catherine-tchoungang.jpg
+Cécile Laure Ngopnang Mouafo : photos/cecile-laure-ngopnang-mouafo.jpg
+Cécile Miyou : photos/cecile.jpeg
+Chloé Fotso : photos/chloe-fotso.jpg
+Christ Abel Djimeli Mouafo : photos/christ-abel-djimeli-mouafo.jpg
+Claire Ngantcha : photos/claire-ngantcha.jpg
+Claude Djinang : photos/claude.jpeg
+Crépin Nguepdjop : photos/crepin-nguepdjop.jpg
+Dagobert Djapou : photos/dagobert.jpeg
+Darlene Wakam : photos/darlene-wakam.jpg
+Delphine Archange Tchinda Mouafo : photos/delphine-archange-tchinda-mouafo.jpg
+Emilienne Sotche : photos/emilienne-sotche.jpg
+Enzo Herman Taked Tchoungang Kamdoum : photos/enzo-herman-taked-tchoungang-kamdoum.jpg
+Franck-Patrick Komguep : photos/franck-patrick-komguep.jpg
+Gilbert Kamnang : photos/gilbert.jpeg
+Grâce Menzefo : photos/grace-menzefo.jpg
+Guilene Menzefo : photos/guilene-menzefo.jpg
+Ines Menzefo : photos/ines-menzefo.jpg
+Ivika Tchatchouang : photos/ivika-tchatchouang.jpg
+Jean-Lebel Ngopnang : photos/lebel.jpeg
+Jeanine Tchapdie : photos/jeanine-tchapdie.jpg
+Jeanne Noumboue : photos/jeanne-noumboue.jpg
+Johanna Ngopnang : photos/johanna-ngopnang.jpg
+Joseph Chana : photos/joseph-chana.jpg
+Joseph Fokoua : photos/joseph-fokoua.jpg
+Joséphine Miyo : photos/josephine-miyo.jpg
+Joyce Yvana Tidjouon Nguikou : photos/joyce-yvana-tidjouon-nguikou.jpg
+Jules Komguep : photos/jules.jpeg
+Juliette Djomo : photos/juliette-djomo.jpg
+Kevin Fotso : photos/kevin-fotso.jpg
+Kylian Fotso : photos/kylian-fotso.jpg
+Laure Podjie : photos/laure-podjie.jpg
+Lebel Tchiedjop : photos/lebel-tchiedjop.jpg
+Lorick Komguep-Tchonkap : photos/lorick-komguep-tchonkap.jpg
+Louise Pélagie Tchopkam Djampou : photos/louise-pelagie-tchopkam-djampou.jpg
+Lucas Mouafo : photos/lucas-mouafo.jpg
+Lydie Wandji : photos/lydie-wandji.jpg
+Marcelline Yimga : photos/marcelline-yimga.jpg
+Marie Chimi : photos/marie-chimi.jpg
+Marlene Massudom : photos/marlene-massudom.jpg
+Martine Menzefo : photos/martine.jpeg
+Nadège Kouokam : photos/nadege.jpeg
+Nathanaël Piegouong Kamnang : photos/nathanael-piegouong-kamnang.jpg
+Nélaine Menzefo : photos/nelaine-menzefo.jpg
+Nina Arlette Djomo : photos/nina-arlette-djomo.jpg
+Ornela Yimga : photos/ornela-yimga.jpg
+Osée Tchonkap : photos/osee-tchonkap.jpg
+Pascal Yves Tidjouon : photos/pascal-yves-tidjouon.jpg
+Phanuel Lontsi Mouafo : photos/phanuel-lontsi-mouafo.jpg
+Pharel Valery Tankoua : photos/pharel-valery-tankoua.jpg
+Raphaël Sylvain Atangana Mbanga Ngopnang : photos/raphael-sylvain-atangana-mbanga-ngopnang.jpg
+Régine Blanche : photos/regine-blanche.jpg
+Régine Djouonang : photos/regine-djouonang.jpg
+Serge Valery Atangana Mbanga : photos/serge-valery-atangana-mbanga.jpg
+Sorel Carine Menzefo : photos/sorel-carine-menzefo.jpg
+Stephan Karen Miyo : photos/stephan-karen-miyo.jpg
+Steve Jouenang : photos/steve-jouenang.jpg
+Sylvia Sotche : photos/sylvia.jpeg
+Theodora Ange Noël Nguekam Tchamabong : photos/theodora-ange-noel-nguekam-tchamabong.jpg
+Thomas Djampou : photos/thomas-djampou.jpg
+Valérie Nagfack : photos/valerie.jpeg
+Webo Koutchadjio : photos/webo-koutchadjio.jpg
+Wilson Ketcheuzeu : photos/wilson-ketcheuzeu.jpg
+Yannick Valère Jouenang : photos/yannick-valere-jouenang.jpg
+Zenabou Anne Atangana Mbanga : photos/zenabou-anne-atangana-mbanga.jpg
