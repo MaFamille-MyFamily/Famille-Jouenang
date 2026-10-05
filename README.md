@@ -88,3 +88,4 @@ Dans les fiches, les relations calculées portent la mention **déduit**.
 Le champ `niveau` d'une famille vaut `"aieul"` (grands-parents), `0` (Nos grandes familles), `1`, `2`, `3`… ou est absent (automatique). `ordre` est le numéro d'affichage dans ce niveau.
 
 Une relation se lit ainsi : « **a** est *type* de **b** ». Les types possibles sont `parent`, `enfant`, `fratrie`, `conjoint`, `grand-parent`, `petit-enfant`, `oncle`, `neveu`, `cousin`, `grand-oncle`, `petit-neveu`, `arriere-grand-parent`, `arriere-petit-enfant`, `beau-frere`, `beau-parent` et `gendre`.
+Dernière mise à jour le 5 octobre à 17h55
