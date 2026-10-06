@@ -1455,7 +1455,7 @@ window.FAMILY_DATA = {
     {
       "id": "kylian-fotso",
       "prenom": "Kylian Mateo",
-      "nom": "Fotso Fokwa",
+      "nom": "Fokwa Fotso",
       "sexe": "M",
       "moisNaissance": 3,
       "anneeNaissance": null,
