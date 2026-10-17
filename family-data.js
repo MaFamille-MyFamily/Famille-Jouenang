@@ -534,7 +534,7 @@ window.FAMILY_DATA = {
       "photo": "photos/ange-dany-lowe.jpg",
       "familleId": "famille-gilbert-gilbert-epouse",
       "grandeFamilleId": "jouenang",
-      "jourNaissance": 17,
+      "jourNaissance": 15,
       "rangNaissance": 5
     },
     {
